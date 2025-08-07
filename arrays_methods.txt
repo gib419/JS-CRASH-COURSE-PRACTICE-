@@ -1,0 +1,17 @@
+// Arrays - varaiables that hold multiple values
+
+const fruit =('apples', 'oranges', 'mangoes', 'pears',);
+
+fruits[3] = 'grapes';
+
+fruits.push('mangoes');
+
+fruits.unshift('strawberries');
+
+fruits.pop();
+
+console.log(Array.isArray(hello'));
+
+console.log(fruits.indexOf('oranges'));
+
+console.log(fruits[1]);
