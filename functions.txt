@@ -1,0 +1,4 @@
+const addNuns = (num1 = 1, num2 = 1) => consoole.log(num1 + num2);
+
+
+addNuns(5, 5);
